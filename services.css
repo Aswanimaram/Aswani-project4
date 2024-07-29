@@ -1,0 +1,64 @@
+img {
+  border-radius: 50%;
+  max-width: 200px;
+  max-height: 200px;
+}
+div {
+  text-align: center;
+  font-size: 40px;
+}
+.services {
+  font-size: 50px;
+  text-align: center;
+  color: #fff;
+}
+.image {
+  max-width: 500px;
+  max-height: 500px;
+}
+body {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  background-image: url(b3.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.mainheading {
+  text-align: center;
+  background-color: blue;
+  color: #fff;
+  padding: 30px;
+  margin: 0px;
+  font-size: 50px;
+}
+nav {
+  color: #fff;
+  padding: 10px;
+  position: relative;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0px;
+  padding-left: 0px;
+}
+nav ul li {
+  display: inline;
+  margin-right: 30px;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+}
+footer{
+  background-color: #d5ec0ada;
+  color: #fff;
+  text-align:center;
+  margin-top: 40;
+  padding: 5px 0;
+}
